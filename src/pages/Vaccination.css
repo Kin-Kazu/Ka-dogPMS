@@ -1,0 +1,118 @@
+.vaccination4 {
+  position: absolute;
+  top: 39px;
+  left: 297px;
+}
+.logokadog-removebg-preview-2-icon4 {
+  position: absolute;
+  top: 20px;
+  left: 1168px;
+  width: 155px;
+  height: 123px;
+  object-fit: cover;
+}
+.inside-body3 {
+  position: absolute;
+  top: 163px;
+  left: 291px;
+  background-color: var(--color-lightblue);
+  width: 1020px;
+  height: 657px;
+  overflow: hidden;
+}
+.div1,
+.previous {
+  position: relative;
+  font-weight: 500;
+}
+.previous {
+  text-align: left;
+}
+.div1 {
+  display: inline-block;
+  width: 13px;
+  height: 15px;
+  flex-shrink: 0;
+}
+.wrapper {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-mediumslateblue);
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-4xs);
+  color: var(--color-white);
+}
+.container,
+.div,
+.previous-parent,
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.container {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gainsboro-100);
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-4xs);
+  color: var(--color-black);
+}
+.div,
+.previous-parent {
+  justify-content: center;
+}
+.previous-parent {
+  gap: var(--gap-xs);
+}
+.div {
+  background-color: var(--color-white);
+  width: 1019px;
+  height: 32px;
+  padding: var(--padding-base);
+  box-sizing: border-box;
+}
+.body11,
+.table {
+  position: absolute;
+}
+.table {
+  top: 163px;
+  left: 291px;
+  width: 971px;
+  height: 346px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkgray-300);
+  font-family: var(--font-montserrat);
+}
+.body11 {
+  top: 116px;
+  left: 39px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 1364px;
+  height: 856px;
+  overflow: hidden;
+}
+.dashboard-icon-vector-2-13 {
+  position: absolute;
+  top: 133px;
+  left: 98px;
+  width: 169px;
+  height: 126px;
+  object-fit: cover;
+}
+.vaccination3 {
+  position: relative;
+  background: linear-gradient(118.76deg, #c2e5ff, rgba(123, 197, 253, 0.9));
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-51xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,25 @@
+.tao-icon {
+  width: 36px;
+  height: 35px;
+  object-fit: cover;
+}
+.participants2,
+.tao-icon {
+  position: relative;
+}
+.selectedyes-logotao {
+  background-color: var(--color-lightblue);
+  width: 313px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-41xl) var(--padding-3xs)
+    var(--padding-3xs);
+  box-sizing: border-box;
+  gap: var(--gap-8xs);
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

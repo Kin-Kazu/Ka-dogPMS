@@ -1,0 +1,116 @@
+.otp {
+  flex: 1;
+  position: relative;
+}
+.otp-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.bxssort-alt-icon2 {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.name-group {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  text-align: left;
+}
+.frame-parent10,
+.quantity-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.quantity-wrapper {
+  width: 258px;
+  justify-content: flex-start;
+  text-align: left;
+}
+.frame-parent10 {
+  align-self: stretch;
+  background-color: var(--color-white);
+  justify-content: center;
+  padding: var(--padding-base);
+  gap: var(--gap-base);
+  text-align: center;
+}
+.div23 {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+}
+.wrapper12,
+.wrapper13 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.wrapper12 {
+  flex: 1;
+  align-items: flex-start;
+  text-align: center;
+}
+.wrapper13 {
+  width: 258px;
+  align-items: center;
+}
+.edit-1-29 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.edit-1-2-parent7 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.frame-parent11,
+.frame-parent12,
+.frame-wrapper9 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.frame-wrapper9 {
+  flex: 1;
+}
+.frame-parent11,
+.frame-parent12 {
+  align-self: stretch;
+  background-color: var(--color-white);
+  padding: var(--padding-base);
+  gap: var(--gap-base);
+}
+.frame-parent12 {
+  background-color: var(--color-ghostwhite);
+}
+.p {
+  margin: 0;
+}
+.table3 {
+  width: 1019px;
+  height: 563px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

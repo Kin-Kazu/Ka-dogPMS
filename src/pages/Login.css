@@ -1,0 +1,94 @@
+.bg-icon {
+  position: absolute;
+  top: 61px;
+  left: 661px;
+  width: 688px;
+  height: 870px;
+}
+.login1 {
+  position: absolute;
+  top: 133px;
+  left: 941px;
+}
+.welcome-administrator {
+  position: absolute;
+  top: 230px;
+  left: 878px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-aguafina-script);
+  color: #1b263a;
+  text-align: center;
+}
+.logokadog-removebg-preview-2-icon {
+  position: relative;
+  width: 258px;
+  height: 147px;
+  object-fit: cover;
+}
+.logo {
+  position: absolute;
+  top: 0;
+  left: 42px;
+  border-radius: 200px;
+  background-color: var(--color-white);
+  width: 287px;
+  height: 287px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 77px 43px;
+  box-sizing: border-box;
+}
+.logokadog-removebg-preview-3-icon {
+  position: absolute;
+  top: 317px;
+  left: 0;
+  width: 372px;
+  height: 66px;
+  object-fit: cover;
+}
+.logo-name {
+  position: absolute;
+  top: 326px;
+  left: 132px;
+  width: 372px;
+  height: 383px;
+}
+.remember-password {
+  position: absolute;
+  top: 3.69px;
+  left: 35.54px;
+  display: inline-block;
+  width: 180.56px;
+  height: 17.31px;
+}
+.checkmark-icon,
+.remember-me {
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  width: 26.16px;
+  height: 23px;
+}
+.remember-me {
+  top: 529px;
+  left: 778px;
+  width: 216.09px;
+  height: 21px;
+  font-size: var(--font-size-sm);
+  color: #6b5e5e;
+  font-family: var(--font-arapey);
+}
+.login {
+  position: relative;
+  background: linear-gradient(118.76deg, #c2e5ff, rgba(123, 197, 253, 0.9));
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: #161515;
+  font-family: var(--font-inter);
+}

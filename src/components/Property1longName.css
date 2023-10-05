@@ -1,0 +1,41 @@
+.text3 {
+  position: relative;
+  display: inline-block;
+  width: 122px;
+  height: 18px;
+  flex-shrink: 0;
+}
+.text4 {
+  position: absolute;
+  top: 4px;
+  left: 14px;
+}
+.property-1long-name,
+.text-container {
+  border-radius: var(--br-8xs);
+  box-sizing: border-box;
+}
+.text-container {
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-black);
+  width: 303px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  color: var(--color-darkgray-200);
+  font-family: var(--font-arapey);
+}
+.property-1long-name {
+  height: 28px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini);
+  gap: var(--gap-3xs);
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

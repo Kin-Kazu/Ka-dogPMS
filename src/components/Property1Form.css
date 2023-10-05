@@ -1,0 +1,20 @@
+.text2 {
+  position: relative;
+}
+.property-1form {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-whitesmoke);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 312px;
+  height: 46px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini);
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-darkgray-200);
+  font-family: var(--font-arapey);
+}

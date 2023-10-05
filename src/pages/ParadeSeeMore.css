@@ -1,0 +1,30 @@
+.body22,
+.body23 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.body23 {
+  height: 796px;
+}
+.body22 {
+  position: absolute;
+  top: 118px;
+  left: 20px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 1482px;
+  overflow-y: auto;
+  flex-wrap: wrap;
+  padding: var(--padding-xs) var(--padding-29xl);
+  box-sizing: border-box;
+  gap: var(--gap-249xl);
+}
+.paradesee-more {
+  position: relative;
+  background: linear-gradient(118.76deg, #c2e5ff, rgba(123, 197, 253, 0.9));
+  width: 100%;
+  height: 1106px;
+  overflow: hidden;
+}

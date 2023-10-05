@@ -1,0 +1,74 @@
+.group-icon3 {
+  position: relative;
+  width: 63px;
+  height: 63px;
+}
+.fashion-show2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+  width: 751.5px;
+}
+.b1,
+.participants8 {
+  position: absolute;
+  top: 60px;
+  left: 1.31px;
+}
+.b1 {
+  top: 61px;
+  left: 131.5px;
+}
+.fashion-show-parent {
+  position: relative;
+  width: 751.5px;
+  height: 85px;
+}
+.vector-icon4,
+.vector-icon5 {
+  position: absolute;
+  height: 53.13%;
+  width: 34.46%;
+  top: -1.56%;
+  right: -1.01%;
+  bottom: 48.44%;
+  left: 66.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon5 {
+  top: 48.44%;
+  bottom: -1.56%;
+}
+.see-more {
+  position: absolute;
+  top: 17px;
+  left: 0;
+}
+.vector-group {
+  position: relative;
+  width: 74px;
+  height: 48px;
+  cursor: pointer;
+  font-size: var(--font-size-xs);
+  color: var(--color-deepskyblue);
+}
+.fashion-show1 {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  width: 980px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-mini) var(--padding-3xl);
+  box-sizing: border-box;
+  gap: var(--gap-6xl);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

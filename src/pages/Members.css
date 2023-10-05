@@ -1,0 +1,41 @@
+.body13,
+.body14,
+.inside-body4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.inside-body4 {
+  background-color: var(--color-lightblue);
+  overflow-x: auto;
+  flex-direction: column;
+  padding: 25px var(--padding-xl);
+  margin-left: -4px;
+}
+.body13,
+.body14 {
+  flex-direction: row;
+}
+.body14 {
+  height: 715px;
+}
+.body13 {
+  position: absolute;
+  top: 116px;
+  left: 39px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 1501px;
+  overflow-y: auto;
+  flex-wrap: wrap;
+  padding: var(--padding-xs) var(--padding-29xl);
+  box-sizing: border-box;
+  gap: var(--gap-249xl);
+}
+.members {
+  position: relative;
+  background: linear-gradient(118.76deg, #c2e5ff, rgba(123, 197, 253, 0.9));
+  width: 100%;
+  height: 1039px;
+  overflow: auto;
+}

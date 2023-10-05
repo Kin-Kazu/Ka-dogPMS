@@ -1,0 +1,25 @@
+.body17 {
+  position: absolute;
+  top: 116px;
+  left: 39px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 1363px;
+  height: 865px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs) var(--padding-29xl);
+  box-sizing: border-box;
+  gap: var(--gap-249xl);
+}
+.judging2 {
+  position: relative;
+  background: linear-gradient(118.76deg, #c2e5ff, rgba(123, 197, 253, 0.9));
+  width: 100%;
+  height: 1024px;
+  overflow-y: auto;
+}

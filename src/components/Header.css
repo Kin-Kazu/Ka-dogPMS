@@ -1,0 +1,33 @@
+.logout-removebg-preview-1-icon {
+  position: absolute;
+  top: 6px;
+  left: 16px;
+  width: 28px;
+  height: 26px;
+  object-fit: cover;
+}
+.logout {
+  position: absolute;
+  top: 18px;
+  left: 1418px;
+  width: 115px;
+  height: 39px;
+}
+.header,
+.welcome-admin {
+  position: absolute;
+  top: 9px;
+  left: 573px;
+}
+.header {
+  top: 0;
+  left: -44px;
+  background-color: var(--color-darkslategray);
+  width: 1557px;
+  height: 76px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-aguafina-script);
+}

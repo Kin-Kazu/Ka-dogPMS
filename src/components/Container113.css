@@ -1,0 +1,121 @@
+.summary {
+  position: relative;
+}
+.summary-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-21xl);
+}
+.b2 {
+  position: relative;
+  font-size: var(--font-size-45xl);
+}
+.total-participants {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  width: 250px;
+  height: 141px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-8xs);
+}
+.dashboard-something {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-94xl);
+}
+.group-icon4 {
+  position: relative;
+  width: 61.5px;
+  height: 61.5px;
+}
+.pet-blessings1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+  width: 751.5px;
+}
+.b5,
+.participants9 {
+  position: absolute;
+  top: 60px;
+  left: 1.31px;
+}
+.b5 {
+  top: 61px;
+  left: 131.5px;
+}
+.pet-blessings-parent {
+  position: relative;
+  width: 751.5px;
+  height: 85px;
+}
+.vector-icon6,
+.vector-icon7 {
+  position: absolute;
+  height: 50%;
+  width: 32.43%;
+  top: 0;
+  right: 0;
+  bottom: 50%;
+  left: 67.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon7 {
+  top: 50%;
+  bottom: 0;
+}
+.see-more1 {
+  position: absolute;
+  top: 17px;
+  left: 0;
+}
+.vector-container {
+  position: relative;
+  width: 74px;
+  height: 48px;
+  font-size: var(--font-size-xs);
+  color: var(--color-deepskyblue);
+}
+.inside-body8,
+.pet-blessings {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.pet-blessings {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  width: 980px;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-mini) var(--padding-3xl);
+  gap: var(--gap-6xl);
+}
+.inside-body8 {
+  background-color: var(--color-lightblue);
+  height: 744px;
+  overflow-x: auto;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-8xs) var(--padding-xl) var(--padding-8xl);
+  gap: var(--gap-7xl);
+  margin-left: -4px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

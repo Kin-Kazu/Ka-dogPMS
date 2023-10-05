@@ -1,0 +1,90 @@
+.title7 {
+  position: relative;
+  line-height: 19px;
+}
+.addbtn-removebg-preview-3-icon2 {
+  position: relative;
+  width: 47px;
+  height: 47px;
+  object-fit: cover;
+}
+.image {
+  border-radius: var(--br-mini);
+  background-color: var(--color-gray-200);
+  border: 1px dashed var(--color-black);
+  box-sizing: border-box;
+  width: 113px;
+  height: 99px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-8xs);
+  font-size: var(--font-size-xs);
+}
+.checkmark-icon1,
+.checkmark-icon2,
+.checkmark-icon3,
+.checkmark-icon4 {
+  position: absolute;
+  top: 6px;
+  left: 374px;
+  width: 20px;
+  height: 17px;
+}
+.checkmark-icon2,
+.checkmark-icon3,
+.checkmark-icon4 {
+  top: 105px;
+}
+.checkmark-icon3,
+.checkmark-icon4 {
+  top: 71px;
+}
+.checkmark-icon4 {
+  top: 38px;
+}
+.activities {
+  position: relative;
+  width: 415px;
+  height: 127px;
+}
+.description {
+  position: absolute;
+  top: 0;
+  left: 0.5px;
+  display: inline-block;
+  width: 376px;
+  height: 19px;
+}
+.description-parent {
+  position: relative;
+  width: 376.5px;
+  height: 93px;
+  text-align: left;
+  font-size: var(--font-size-base);
+}
+.buttons1,
+.schedule-form {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-7xl);
+}
+.schedule-form {
+  position: absolute;
+  top: 177px;
+  left: 559px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-9xl) var(--padding-16xl);
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

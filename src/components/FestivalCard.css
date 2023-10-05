@@ -1,0 +1,190 @@
+.inside-body-child {
+  position: absolute;
+  top: 24px;
+  left: 58px;
+  width: 901px;
+  height: 609px;
+}
+.edit-modify-ico-edit-pencil-ic-icon {
+  position: absolute;
+  top: 26px;
+  left: 871px;
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
+}
+.rectangle {
+  position: absolute;
+  height: 8.37%;
+  width: 16.67%;
+  top: 84.78%;
+  right: 40.98%;
+  bottom: 6.85%;
+  left: 42.35%;
+  border-radius: var(--br-mini);
+  background-color: var(--color-firebrick-100);
+}
+.change-email-address {
+  position: absolute;
+  width: 9.8%;
+  top: calc(50% + 247.5px);
+  left: 45.78%;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+  opacity: 0.91;
+  mix-blend-mode: normal;
+}
+.higalaay-festival {
+  position: absolute;
+  top: 173px;
+  left: 416px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 202px;
+  height: 21px;
+}
+.address,
+.date,
+.description1,
+.time {
+  position: absolute;
+  top: 366px;
+  left: 344px;
+  line-height: 19px;
+}
+.address,
+.date,
+.time {
+  top: 255px;
+  left: 346px;
+}
+.address,
+.date {
+  top: 233px;
+}
+.address {
+  top: 275px;
+  left: 345px;
+}
+.activities1,
+.august-17-20231,
+.div19 {
+  position: absolute;
+  top: 295px;
+  left: 344px;
+  line-height: 19px;
+}
+.august-17-20231,
+.div19 {
+  top: 255px;
+  left: 412px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 96px;
+  height: 20px;
+}
+.august-17-20231 {
+  top: 235px;
+  left: 433px;
+  width: 133px;
+}
+.limketkai-atrium {
+  top: 277px;
+  left: 395px;
+  justify-content: center;
+  width: 219px;
+  height: 16px;
+}
+.fashion-show3,
+.limketkai-atrium,
+.the-event-is {
+  position: absolute;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+}
+.fashion-show3 {
+  top: 297px;
+  left: 383px;
+  justify-content: center;
+  width: 219px;
+  height: 16px;
+}
+.the-event-is {
+  top: 374px;
+  left: 345px;
+  text-align: left;
+  width: 386px;
+  height: 99px;
+}
+.image-3-icon2 {
+  position: absolute;
+  top: 75px;
+  left: 457px;
+  width: 114px;
+  height: 89px;
+  object-fit: cover;
+}
+.event-details,
+.inside-body-item {
+  position: absolute;
+  top: 65.89px;
+  left: 57px;
+  width: 902px;
+  height: 1px;
+}
+.event-details {
+  top: 44px;
+  left: 19px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 202px;
+  height: 21px;
+}
+.richeckbox-fill {
+  position: absolute;
+  top: 273px;
+  left: 609px;
+  width: 23px;
+  height: 18px;
+  overflow: hidden;
+}
+.png-clipart-computer-icons-sym,
+.png-clipart-computer-icons-sym1 {
+  position: absolute;
+  top: 106px;
+  left: 322.75px;
+  width: 17.65px;
+  height: 15px;
+}
+.png-clipart-computer-icons-sym1 {
+  top: 182px;
+}
+.addbtn-removebg-preview-3-icon3 {
+  position: absolute;
+  top: 18.55px;
+  left: 899.55px;
+  width: 50.9px;
+  height: 50.9px;
+  object-fit: cover;
+}
+.inside-body10 {
+  position: absolute;
+  top: 163px;
+  left: 291px;
+  background-color: var(--color-lightblue);
+  width: 1020px;
+  height: 657px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-dm-sans);
+}

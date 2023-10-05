@@ -1,0 +1,137 @@
+.addbtn-removebg-preview-3-icon {
+  position: relative;
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
+}
+.add-vaccination {
+  position: relative;
+  font-weight: 600;
+}
+.add-more {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gray-200);
+  border: 1px dashed var(--color-black);
+  box-sizing: border-box;
+  width: 980px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 3px var(--padding-3xl);
+  gap: var(--gap-6xl);
+}
+.group-icon {
+  position: relative;
+  width: 63px;
+  height: 63px;
+}
+.anti-rabies {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+  width: 751.5px;
+}
+.available,
+.b {
+  position: absolute;
+  top: 60px;
+  left: 1.31px;
+}
+.b {
+  left: 106.5px;
+}
+.anti-rabies-parent {
+  position: relative;
+  width: 751.5px;
+  height: 84px;
+}
+.vector-icon,
+.vector-icon1 {
+  position: absolute;
+  height: 53.13%;
+  width: 31.48%;
+  top: -1.56%;
+  right: -0.93%;
+  bottom: 48.44%;
+  left: 69.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon1 {
+  top: 48.44%;
+  bottom: -1.56%;
+}
+.more-details {
+  position: absolute;
+  top: 15.5px;
+  left: 0;
+}
+.vector-parent {
+  position: relative;
+  width: 81px;
+  height: 48px;
+  cursor: pointer;
+  font-size: var(--font-size-xs);
+  color: var(--color-deepskyblue);
+}
+.vaccine-anti-ra {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  width: 980px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-mini) var(--padding-3xl);
+  box-sizing: border-box;
+  gap: var(--gap-6xl);
+  font-size: var(--font-size-xl);
+}
+.inside-body {
+  background-color: var(--color-lightblue);
+  width: 1020px;
+  height: 744px;
+  overflow-x: auto;
+  flex-shrink: 0;
+  flex-wrap: wrap;
+  padding: var(--padding-mini) var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-51xl);
+  margin-left: -4px;
+}
+.body6,
+.body7,
+.inside-body {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.body6 {
+  position: absolute;
+  top: 116px;
+  left: 39px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 1363px;
+  overflow-y: auto;
+  flex-wrap: wrap;
+  padding: var(--padding-xs) var(--padding-29xl);
+  box-sizing: border-box;
+  gap: var(--gap-249xl);
+}
+.vaccination {
+  position: relative;
+  background: linear-gradient(118.76deg, #c2e5ff, rgba(123, 197, 253, 0.9));
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

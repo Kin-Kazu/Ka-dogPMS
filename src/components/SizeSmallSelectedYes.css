@@ -1,0 +1,16 @@
+.s1 {
+  position: relative;
+}
+.sizesmall-selectedyes {
+  border-radius: var(--br-6xl);
+  background-color: var(--color-lightgreen);
+  width: 41px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

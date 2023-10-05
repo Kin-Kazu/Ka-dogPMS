@@ -1,0 +1,35 @@
+.dashboard-icon-vector-2-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 169px;
+  height: 126px;
+  object-fit: cover;
+}
+.dashboard {
+  position: absolute;
+  top: 20px;
+  left: 265px;
+}
+.titletile {
+  position: relative;
+  width: 639px;
+  height: 126px;
+}
+.logokadog-removebg-preview-3-icon1 {
+  position: relative;
+  width: 143px;
+  height: 123px;
+  object-fit: cover;
+}
+.title11 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-466xl);
+  text-align: left;
+  font-size: var(--font-size-51xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
