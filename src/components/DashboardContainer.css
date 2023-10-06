@@ -5,11 +5,13 @@
   width: 169px;
   height: 126px;
   object-fit: cover;
+  margin-top: 250px;
 }
 .dashboard {
   position: absolute;
   top: 20px;
   left: 265px;
+  margin-top: 250px;
 }
 .titletile {
   position: relative;
@@ -21,6 +23,7 @@
   width: 143px;
   height: 123px;
   object-fit: cover;
+  margin-top: 10px;
 }
 .title11 {
   display: flex;
@@ -32,4 +35,5 @@
   font-size: var(--font-size-51xl);
   color: var(--color-black);
   font-family: var(--font-inter);
+  margin-top: -200px;
 }
